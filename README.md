@@ -64,5 +64,5 @@ Here is a sample output:
   Survival: 1
   
 
-Note that these modifiers are calculated from the random roll results only, there is no added class, race, or background bonuses.
+Note that these modifiers are calculated from the random roll results only; there is no added class, race, or background bonuses.
 There is also a framework for proficiency bonuses that could be added later.
