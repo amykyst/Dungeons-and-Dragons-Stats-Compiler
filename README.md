@@ -1,4 +1,4 @@
-# Dungeons and Dragons Stats Generator/Compiler
+# Dungeons and Dragons Stats Generator
 A program that will generate random numbers for a given stat within appropriate parameters.
 Useful for character creation in Dungeons & Dragons 5th Edition.
 
