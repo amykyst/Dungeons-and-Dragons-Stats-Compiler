@@ -1,5 +1,6 @@
 # Dungeons-and-Dragons-Stats-Compiler
 A program that will generate random numbers for a given stat within appropriate parameters.
+
 Useful for character creation in Dungeons & Dragons 5th Edition.
 
 - Be sure to have Java JDK installed.
@@ -65,4 +66,5 @@ Here is a sample output:
   
 
 Note that these modifiers are calculated from the random roll results only, there is no added class, race, or personal bonuses.
+
 There is also a framework for proficiency bonuses that could be added later.
