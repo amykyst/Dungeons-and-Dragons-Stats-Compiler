@@ -1,5 +1,5 @@
 # Dungeons and Dragons Stats Generator
-A program that will generate random numbers for a given stat within appropriate parameters.
+A program that will generate random numbers for a each stat within appropriate parameters.
 Useful for character creation in Dungeons & Dragons 5th Edition.
 
 - Be sure to have Java JDK installed.
